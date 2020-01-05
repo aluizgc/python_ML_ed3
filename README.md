@@ -1,4 +1,5 @@
-# Python Machine Learning, 3rd edition
+<p style="text-align: center;">
+# Python Machine Learning, 3rd edition</p>
 
 
 <p align="center">
