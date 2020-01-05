@@ -1,6 +1,5 @@
-[center]
 # Python Machine Learning, 3rd edition
-[\center]
+
 
 <p align="center">
   <a href="https://www.amazon.com.br/dp/B07VBLX2W7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">
