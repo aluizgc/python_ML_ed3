@@ -6,7 +6,10 @@
   </a>
 </p>
 
-Here I develop the projects contained in the book ***Python Machine Learning***.
+Here I develop the projects contained in the book ****Python Machine Learning****. Each folder contains an individual project.
+
+
+****I didn't create these algorithms, they were just implemented by me for the purpose of learning.****
 
 ## Requeriments
 
@@ -14,3 +17,13 @@ Here I develop the projects contained in the book ***Python Machine Learning***.
 
 ### IDE (Optional)
 - [Visual Stuido Code](https://code.visualstudio.com/)
+
+## Projects
+
+### Perceptron learning
+
+<p align="center">
+    <img src="./Perceptron Learning/result.png" width="300">
+</p>
+
+
