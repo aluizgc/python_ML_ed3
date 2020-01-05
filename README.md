@@ -1,5 +1,4 @@
-<p align="center">
-# Python Machine Learning, 3rd edition</p>
+# Python Machine Learning, 3rd edition
 
 
 <p align="center">
@@ -10,8 +9,8 @@
 
 Here I develop the projects contained in the book ****Python Machine Learning****. Each folder contains an individual project.
 
-
-****I didn't create these algorithms, they were just implemented by me for the purpose of learning.****
+<p style="text-align: center;">
+<strong>I didn't create these algorithms, they were just implemented by me for the purpose of learning.</storng></p>
 
 ## Requeriments
 
