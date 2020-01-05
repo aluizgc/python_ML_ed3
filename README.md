@@ -10,7 +10,7 @@
 Here I develop the projects contained in the book ****Python Machine Learning****. Each folder contains an individual project.
 
 <p style="text-align: center;">
-<strong>I didn't create these algorithms, they were just implemented by me for the purpose of learning.</storng></p>
+<strong>I didn't create these algorithms, they were just implemented by me for the purpose of learning.</strong></p>
 
 ## Requeriments
 
