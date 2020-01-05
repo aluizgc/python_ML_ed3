@@ -19,7 +19,7 @@ Here I develop the projects contained in the book ****Python Machine Learning***
 ### IDE (Optional)
 - [Visual Stuido Code](https://code.visualstudio.com/)
 
-## Projects
+## Projects and Results
 
 ### Perceptron learning
 
