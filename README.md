@@ -25,8 +25,6 @@ Here I develop the projects contained in the book ****Python Machine Learning***
 
 Using the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris), the perceptron learned the decision boundary and is able to classify all flower examples in the Iris training subset.
 
-Results:
-
 <p align="center">
     <img src="./Perceptron Learning/result.png" width="450">
 </p>
