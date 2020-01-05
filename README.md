@@ -1,4 +1,6 @@
+[center]
 # Python Machine Learning, 3rd edition
+[\center]
 
 <p align="center">
   <a href="https://www.amazon.com.br/dp/B07VBLX2W7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">
@@ -25,7 +27,7 @@ Here I develop the projects contained in the book ****Python Machine Learning***
 Using the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris) the perceptron learned the decision boundary and is able to classify all flower examples in the Iris training subset.
 
 <p align="center">
-    <img src="./Perceptron Learning/result.png" width="400">
+    <img src="./Perceptron Learning/result.png" width="450">
 </p>
 
 
