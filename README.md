@@ -9,8 +9,8 @@
 
 Here I develop the projects contained in the book ****Python Machine Learning****. Each folder contains an individual project.
 
-<p style="text-align: center;">
-<strong>I didn't create these algorithms, they were just implemented by me for the purpose of learning.</strong></p>
+
+****I didn't create these algorithms, they were just implemented by me for the purpose of learning.****
 
 ## Requeriments
 
@@ -23,7 +23,9 @@ Here I develop the projects contained in the book ****Python Machine Learning***
 
 ### Perceptron learning
 
-Using the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris) the perceptron learned the decision boundary and is able to classify all flower examples in the Iris training subset.
+Using the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris), the perceptron learned the decision boundary and is able to classify all flower examples in the Iris training subset.
+
+Results:
 
 <p align="center">
     <img src="./Perceptron Learning/result.png" width="450">
