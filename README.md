@@ -30,11 +30,11 @@ Using the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris), the per
 </p>
 
 ### ADAptative LInear NEuron (ADALINE)
-In the case of Adaline we can define a objective function that is to be optimized during the learning process. This objective function is often a cost fuction that we want to minimize.
+In the case of ADALINE we can define a objective function that is to be optimized during the learning process. This objective function is often a cost fuction that we want to minimize.
 
-Using the Iris Data Set we can see that Adaline converged after training on the standardized features using a learning rate of &eta; = 0.01. However, note that the objective function (Sum of Squared Errors) remains non-zero even though all flower examples were classified correctly.
+Using the Iris Data Set we can see that ADALINE converged after training on the standardized features using a learning rate of &eta; = 0.01. However, note that the objective function (Sum of Squared Errors) remains non-zero even though all flower examples were classified correctly.
 
 <p align="center">
-    <img src="./Adaline - ADAptaive LInear NEuron\adaline01.png" width="400">
-    <img src="./Adaline - ADAptaive LInear NEuron\adaline02.png" width="400">
+    <img src="./ADALINE - ADAptaive LInear NEuron\adaline01.png" width="400">
+    <img src="./ADALINE - ADAptaive LInear NEuron\adaline02.png" width="400">
 </p>
